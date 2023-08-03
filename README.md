@@ -1,6 +1,5 @@
-[![JavaScript](https://img.shields.io/badge/JavaScript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
 # QR-Code-Generator-React-Native
+[![JavaScript](https://img.shields.io/badge/JavaScript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 # Scanner-App-React-Native
  This is a BarCode Generator app built using React Native Expo. The app allows users to write any value and generate the QR Code for that given Value.
  
