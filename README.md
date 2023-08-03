@@ -1,4 +1,4 @@
- [![JavaScript](https://img.shields.io/badge/JavaScript-JS-F7DF1E?style=for-the-badge&logo=JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 # QR-Code-Generator-React-Native
 # Scanner-App-React-Native
